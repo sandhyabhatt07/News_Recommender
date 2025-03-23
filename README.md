@@ -35,7 +35,9 @@ streamlit run app.py
 
 ## 📡 Deployment
 
-This app is deployed on **Streamlit Cloud**. If you modify `app.py`, push the changes to GitHub, and the deployment will automatically update.
+This app is deployed on **Streamlit Cloud**. You can access it here:  
+👉 [Live Demo](https://newsrecommender-zsd6l2wmiy7swemcwfgqsn.streamlit.app/)
+
 
 For manual deployment:
 
