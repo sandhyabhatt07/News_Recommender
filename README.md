@@ -7,6 +7,7 @@
 **Personalized Recommendations:** Get news suggestions based on your reading history.
 
 **Content-Based Filtering:** Find similar articles to the ones you clicked.
+
 **Collaborative Filtering:** Personalized recommendations based on user interactions.
 
 **Category Filtering:** Browse news by category.
