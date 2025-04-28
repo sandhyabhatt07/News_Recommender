@@ -22,7 +22,6 @@
 ### 1️⃣ Clone the Repository
 
 git clone [https://github.com/sandhyabhatt07/News_Recommender.git](https://github.com/YOUR_USERNAME/YOUR_REPO.git)
-cd YOUR\_REPO
 
 ### 2️⃣ Install Dependencies
 
